@@ -1,4 +1,13 @@
-# Video calling using Agora's JavaScript SDK
+# [ARCHIVED] Video calling using Agora's JavaScript SDK
+
+**⚠️ This project is no longer maintained and has been archived.**  
+Please note that this repository is now in a read-only state and will not receive any further updates or support.
+
+We recommend using to the latest version of the **Agora Web SDK**: [Learn more](https://www.agora.io/en/products/video-call/) 
+
+For documentation and support, please visit the [Agora Documentation](https://docs.agora.io/en/).
+
+---
 Having video streaming features integrated inside an application can be very tedious and time-consuming. Maintaining a low-latency video server, load balancing, listening to end-user events(screen off, reload etc.) are some really painful hassles not to mention having cross-platform compatibility.
 
 Feeling dizzy already? Dread not! Agora's SDKs integrate video calling features into your application and will get you up and running within a matter of minutes. Oh!, and all the video server details are abstracted away. In this tutorial, we'll write a bare-bones web application with video calling features using vanilla javascript and AgoraWebSDK.
